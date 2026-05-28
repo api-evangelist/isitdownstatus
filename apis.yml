@@ -1,0 +1,32 @@
+aid: isitdownstatus
+name: isitdownstatus
+description: "Check if websites and online services are currently down"
+url: https://isitdownstatus.com
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: isitdownstatus
+    description: "Check if websites and online services are currently down"
+    humanURL: https://isitdownstatus.com
+    baseURL: https://isitdownstatus.com
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://isitdownstatus.com
+common:
+  - type: Website
+    url: https://isitdownstatus.com
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
