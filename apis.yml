@@ -39,7 +39,6 @@ apis:
   - name: isitdownstatus
     description: "Check if websites and online services are currently down"
     humanURL: https://isitdownstatus.com
-    baseURL: https://isitdownstatus.com
     tags:
       - Development
     properties:
